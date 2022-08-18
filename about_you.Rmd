@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "veronica gonzalez"
 output: 
   html_document:
     number_sections: true
@@ -17,8 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
-
+I went to Littlerock high school, and yes I graduated. For me English is way easier than math. I did better in my english classes. 
      
 
 
